@@ -23,7 +23,7 @@
 - :recycle: 캔, 유리, 플라스틱을 자동으로 분리해주는 쓰레기통
 - :iphone: Android App을 통해 잔량 확인
 <br>
-:page_facing_up:
+
 <br>
 
 ## :three: Motive
@@ -53,6 +53,7 @@
   <h3>[2023. 11. 15] 개발계획서 ?</h3>
 </summary>
    <a href="6조 개발계획서.hwp"> ? 6조 개발계획서 한글 파일 </a>
+   계획 내용 
 </details>
 <br>
 

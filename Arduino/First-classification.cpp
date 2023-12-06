@@ -22,27 +22,15 @@ void setup() {
 }
 
 void loop() {
-  int sensorValue = 0;
-  int can_check = 0;
-  
-  for (int i = 0; i < 3; i++)
-  {
-    sensorValue = analogRead(photoresistorPin);
-    Serial.print("Sensor Value: ");
-    Serial.println(sensorValue);
-    if (sensorValue <= threshold)
-      {
-        can_check++;
-      }
-    delay(100);
-  }
+  int sensorValue = analogRead(photoresistorPin);
+  Serial.print("Sensor Value: ");
+  Serial.println(sensorValue);
 
 
-  if (can_check == 0) {
+  if (sensorValue > threshold) {
     Serial.println("Not Can"); // 어두운 환경 감지 시 메시지 출력
-    moveNonCan();
   } else {
-    Serial.println("Can");
+    Serial.println("Can"); // 밝은 환경 감지 시 메시지 출력
     moveCan();
   }
 
@@ -51,15 +39,15 @@ void loop() {
 
 
 void moveCan() {
-  for (int angle = 90; angle >= 0; angle -= 10) {  // 0도에서 180도까지 30도씩 증가하면서 반복
+  for (int angle = 90; angle >= 0; angle -= 10) {  // 기준 90도에서 0도까지 오른쪽으로 10도씩 증가하면서 반복
     myservo1.write(angle);
-    myservo2.write(180 - angle);  // 서보 모터를 움직이는 함수 호출
+    myservo2.write(180 - angle);
     delay(100);
   }
   delay(2000);
-  for (int angle = 0; angle <= 90; angle += 10) {  // 0도에서 180도까지 30도씩 증가하면서 반복
+  for (int angle = 0; angle <= 90; angle += 10) {  // 회전한 0도에서 90도까지 왼쪽으로 10도씩 증가하면서 반복
     myservo1.write(angle);
-    myservo2.write(180 - angle);  // 서보 모터를 움직이는 함수 호출
+    myservo2.write(180 - angle);
     delay(100);
   }
 }

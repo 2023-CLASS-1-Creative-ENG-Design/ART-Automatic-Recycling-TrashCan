@@ -2,6 +2,10 @@
 
 # ♻️ ART : Automatic Recycling Trash-can ♻️
 6팀 STX
+<br>
+
+<br>
+
 
 ## 1️⃣ Introduce
 - [기초창의공학설계] 아두이노 프로젝트

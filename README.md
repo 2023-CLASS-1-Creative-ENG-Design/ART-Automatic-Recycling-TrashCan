@@ -1,39 +1,39 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=76EA63&height=150&section=header" />
 
-# ?? <b>ART : Automatic Recycling Trash-can</b> ??
+# :recycle: <b>ART : Automatic Recycling Trash-can</b> :recycle:
 기초창의공학설계 6팀 STX
 <br>
 
 <br>                          
 
-## 1?? Team Member
-? <b>김민재 [ART 앱 제작 담당] </b> : 안녕하세요, 저는 경북대학교 컴퓨터학부 23학번 김민재입니다. <br>
+## :one: Team Member
+:frog: <b>김민재 [ART 앱 제작 담당] </b> : 안녕하세요, 저는 경북대학교 컴퓨터학부 23학번 김민재입니다. <br>
 <br>
-? <b>김시영 [H/W 개발 담당] </b> : 안녕하세요, 저는 경북대학교 컴퓨터학부 23학번 김시영입니다. <br>
+:whale: <b>김시영 [H/W 개발 담당] </b> : 안녕하세요, 저는 경북대학교 컴퓨터학부 23학번 김시영입니다. <br>
 <br>
-? <b>이민주 [Arduino S/W 개발 담당] </b> : 안녕하세요, 저는 경북대학교 컴퓨터학부 23학번 이민주입니다. <br>
+:cat: <b>이민주 [Arduino S/W 개발 담당] </b> : 안녕하세요, 저는 경북대학교 컴퓨터학부 23학번 이민주입니다. <br>
 <br>
-? <b>최원아 [Arduino S/W 개발 담당] </b> : 안녕하세요, 저는 경북대학교 컴퓨터학부 23학번 최원아입니다. <br>
-<br>
-
-<br>
-
-## 2?? Project Introduce
-- ? [기초창의공학설계] 아두이노 프로젝트
-- ?? 캔, 유리, 플라스틱을 자동으로 분리해주는 쓰레기통
-- ? Android App을 통해 잔량 확인
+:pig: <b>최원아 [Arduino S/W 개발 담당] </b> : 안녕하세요, 저는 경북대학교 컴퓨터학부 23학번 최원아입니다. <br>
 <br>
 
 <br>
 
-## 3?? Motive
+## :two: Project Introduce
+- :computer: [기초창의공학설계] 아두이노 프로젝트
+- :recycle: 캔, 유리, 플라스틱을 자동으로 분리해주는 쓰레기통
+- :iphone: Android App을 통해 잔량 확인
+<br>
+:page_facing_up:
+<br>
+
+## :three: Motive
 - "국립대 분리수거 미이행" 사건 모티브
 - 조금이나마 편리한 분리수거 제공을 위한 프로젝트
 <br>
 
 <br>
 
-## 4?? Langange
+## :four: Langange
 - Arduino<br>
 
 ![c++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -45,7 +45,7 @@
 
 <br>
 
-## 4?? Research Procedure
+## :four: Research Procedure
 
 <!--  개발계획서  -->
 <details>

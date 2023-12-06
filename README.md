@@ -1,39 +1,39 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=76EA63&height=150&section=header" />
 
-# â™»ï¸ <b>ART : Automatic Recycling Trash-can</b> â™»ï¸
-ê¸°ì´ˆì°½ì˜ê³µí•™ì„¤ê³„ 6íŒ€ STX
+# ?? <b>ART : Automatic Recycling Trash-can</b> ??
+±âÃÊÃ¢ÀÇ°øÇÐ¼³°è 6ÆÀ STX
 <br>
 
 <br>                          
 
-## 1ï¸âƒ£ Team Member
-ðŸ¸ <b>ê¹€ë¯¼ìž¬ [ART ì•± ì œìž‘ ë‹´ë‹¹] </b> : ì•ˆë…•í•˜ì„¸ìš”, ì €ëŠ” ê²½ë¶ëŒ€í•™êµ ì»´í“¨í„°í•™ë¶€ 23í•™ë²ˆ ê¹€ë¯¼ìž¬ìž…ë‹ˆë‹¤. <br>
+## 1?? Team Member
+? <b>±è¹ÎÀç [ART ¾Û Á¦ÀÛ ´ã´ç] </b> : ¾È³çÇÏ¼¼¿ä, Àú´Â °æºÏ´ëÇÐ±³ ÄÄÇ»ÅÍÇÐºÎ 23ÇÐ¹ø ±è¹ÎÀçÀÔ´Ï´Ù. <br>
 <br>
-ðŸ³ <b>ê¹€ì‹œì˜ [H/W ê°œë°œ ë‹´ë‹¹] </b> : ì•ˆë…•í•˜ì„¸ìš”, ì €ëŠ” ê²½ë¶ëŒ€í•™êµ ì»´í“¨í„°í•™ë¶€ 23í•™ë²ˆ ê¹€ì‹œì˜ìž…ë‹ˆë‹¤. <br>
+? <b>±è½Ã¿µ [H/W °³¹ß ´ã´ç] </b> : ¾È³çÇÏ¼¼¿ä, Àú´Â °æºÏ´ëÇÐ±³ ÄÄÇ»ÅÍÇÐºÎ 23ÇÐ¹ø ±è½Ã¿µÀÔ´Ï´Ù. <br>
 <br>
-ðŸ± <b>ì´ë¯¼ì£¼ [Arduino S/W ê°œë°œ ë‹´ë‹¹] </b> : ì•ˆë…•í•˜ì„¸ìš”, ì €ëŠ” ê²½ë¶ëŒ€í•™êµ ì»´í“¨í„°í•™ë¶€ 23í•™ë²ˆ ì´ë¯¼ì£¼ìž…ë‹ˆë‹¤. <br>
+? <b>ÀÌ¹ÎÁÖ [Arduino S/W °³¹ß ´ã´ç] </b> : ¾È³çÇÏ¼¼¿ä, Àú´Â °æºÏ´ëÇÐ±³ ÄÄÇ»ÅÍÇÐºÎ 23ÇÐ¹ø ÀÌ¹ÎÁÖÀÔ´Ï´Ù. <br>
 <br>
-ðŸ· <b>ìµœì›ì•„ [Arduino S/W ê°œë°œ ë‹´ë‹¹] </b> : ì•ˆë…•í•˜ì„¸ìš”, ì €ëŠ” ê²½ë¶ëŒ€í•™êµ ì»´í“¨í„°í•™ë¶€ 23í•™ë²ˆ ìµœì›ì•„ìž…ë‹ˆë‹¤. <br>
-<br>
-
-<br>
-
-## 2ï¸âƒ£ Project Introduce
-- ðŸ’» [ê¸°ì´ˆì°½ì˜ê³µí•™ì„¤ê³„] ì•„ë‘ì´ë…¸ í”„ë¡œì íŠ¸
-- â™»ï¸ ìº”, ìœ ë¦¬, í”Œë¼ìŠ¤í‹±ì„ ìžë™ìœ¼ë¡œ ë¶„ë¦¬í•´ì£¼ëŠ” ì“°ë ˆê¸°í†µ
-- ðŸ“± Android Appì„ í†µí•´ ìž”ëŸ‰ í™•ì¸
+? <b>ÃÖ¿ø¾Æ [Arduino S/W °³¹ß ´ã´ç] </b> : ¾È³çÇÏ¼¼¿ä, Àú´Â °æºÏ´ëÇÐ±³ ÄÄÇ»ÅÍÇÐºÎ 23ÇÐ¹ø ÃÖ¿ø¾ÆÀÔ´Ï´Ù. <br>
 <br>
 
 <br>
 
-## 3ï¸âƒ£ Motive
-- "êµ­ë¦½ëŒ€ ë¶„ë¦¬ìˆ˜ê±° ë¯¸ì´í–‰" ì‚¬ê±´ ëª¨í‹°ë¸Œ
-- ì¡°ê¸ˆì´ë‚˜ë§ˆ íŽ¸ë¦¬í•œ ë¶„ë¦¬ìˆ˜ê±° ì œê³µì„ ìœ„í•œ í”„ë¡œì íŠ¸
+## 2?? Project Introduce
+- ? [±âÃÊÃ¢ÀÇ°øÇÐ¼³°è] ¾ÆµÎÀÌ³ë ÇÁ·ÎÁ§Æ®
+- ?? Äµ, À¯¸®, ÇÃ¶ó½ºÆ½À» ÀÚµ¿À¸·Î ºÐ¸®ÇØÁÖ´Â ¾²·¹±âÅë
+- ? Android AppÀ» ÅëÇØ ÀÜ·® È®ÀÎ
 <br>
 
 <br>
 
-## 4ï¸âƒ£ Langange
+## 3?? Motive
+- "±¹¸³´ë ºÐ¸®¼ö°Å ¹ÌÀÌÇà" »ç°Ç ¸ðÆ¼ºê
+- Á¶±ÝÀÌ³ª¸¶ Æí¸®ÇÑ ºÐ¸®¼ö°Å Á¦°øÀ» À§ÇÑ ÇÁ·ÎÁ§Æ®
+<br>
+
+<br>
+
+## 4?? Langange
 - Arduino<br>
 
 ![c++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -45,58 +45,58 @@
 
 <br>
 
-## 4ï¸âƒ£ Research Procedure
+## 4?? Research Procedure
 
-<!--  ê°œë°œê³„íšì„œ  -->
+<!--  °³¹ß°èÈ¹¼­  -->
 <details>
 <summary>
-  <h3>[2023. 11. 15] ê°œë°œê³„íšì„œ ðŸ“ƒ</h3>
+  <h3>[2023. 11. 15] °³¹ß°èÈ¹¼­ ?</h3>
 </summary>
-   <a href="6ì¡° ê°œë°œê³„íšì„œ.hwp"> ðŸ”— 6ì¡° ê°œë°œê³„íšì„œ í•œê¸€ íŒŒì¼ </a>
+   <a href="6Á¶ °³¹ß°èÈ¹¼­.hwp"> ? 6Á¶ °³¹ß°èÈ¹¼­ ÇÑ±Û ÆÄÀÏ </a>
 </details>
 <br>
 
 <br>
 
-<!--  1ì°¨ ì—°êµ¬ë…¸íŠ¸  -->
+<!--  1Â÷ ¿¬±¸³ëÆ®  -->
 <details>
 <summary>
-  <h3>[2023. 11. 22] 1ì°¨ ì—°êµ¬ë…¸íŠ¸ ðŸ“ƒ</h3>
+  <h3>[2023. 11. 22] 1Â÷ ¿¬±¸³ëÆ® ?</h3>
 </summary>
-   <a href="6ì¡° 11ì›” 4ì£¼ì°¨ ì—°êµ¬ë…¸íŠ¸.hwp"> ðŸ”— 6ì¡° 11ì›” 4ì£¼ì°¨ ì—°êµ¬ë…¸íŠ¸ í•œê¸€ íŒŒì¼ </a>
+   <a href="6Á¶ 11¿ù 4ÁÖÂ÷ ¿¬±¸³ëÆ®.hwp"> ? 6Á¶ 11¿ù 4ÁÖÂ÷ ¿¬±¸³ëÆ® ÇÑ±Û ÆÄÀÏ </a>
 </details>
 <br>
 
 <br>
 
-<!--  2ì°¨ ì—°êµ¬ë…¸íŠ¸  -->
+<!--  2Â÷ ¿¬±¸³ëÆ®  -->
 <details>
 <summary>
-  <h3>[2023. 11. 29] 2ì°¨ ì—°êµ¬ë…¸íŠ¸ ðŸ“ƒ</h3>
+  <h3>[2023. 11. 29] 2Â÷ ¿¬±¸³ëÆ® ?</h3>
 </summary>
-   <a href="6ì¡° 11ì›” 5ì£¼ì°¨ ì—°êµ¬ë…¸íŠ¸.hwp"> ðŸ”— 6ì¡° 11ì›” 5ì£¼ì°¨ ì—°êµ¬ë…¸íŠ¸ í•œê¸€ íŒŒì¼ </a>
+   <a href="6Á¶ 11¿ù 5ÁÖÂ÷ ¿¬±¸³ëÆ®.hwp"> ? 6Á¶ 11¿ù 5ÁÖÂ÷ ¿¬±¸³ëÆ® ÇÑ±Û ÆÄÀÏ </a>
 </details>
 <br>
 
 <br>
 
-<!--  3ì°¨ ì—°êµ¬ë…¸íŠ¸  -->
+<!--  3Â÷ ¿¬±¸³ëÆ®  -->
 <details>
 <summary>
-  <h3>[2023. 12. 06] 3ì°¨ ì—°êµ¬ë…¸íŠ¸ ðŸ“ƒ</h3>
+  <h3>[2023. 12. 06] 3Â÷ ¿¬±¸³ëÆ® ?</h3>
 </summary>
-   <a href="6ì¡° 12ì›” 1ì£¼ì°¨ ì—°êµ¬ë…¸íŠ¸.hwp"> ðŸ”— 6ì¡° 12ì›” 1ì£¼ì°¨ ì—°êµ¬ë…¸íŠ¸ í•œê¸€ íŒŒì¼ </a>
+   <a href="6Á¶ 12¿ù 1ÁÖÂ÷ ¿¬±¸³ëÆ®.hwp"> ? 6Á¶ 12¿ù 1ÁÖÂ÷ ¿¬±¸³ëÆ® ÇÑ±Û ÆÄÀÏ </a>
 </details>
 <br>
 
 <br>
 
-<!--  í”„ë¡œì íŠ¸ ê²°ê³¼ë³´ê³ ì„œ  -->
+<!--  ÇÁ·ÎÁ§Æ® °á°úº¸°í¼­  -->
 <details>
 <summary>
-  <h3>[2023. 12. 13] í”„ë¡œì íŠ¸ ê²°ê³¼ë³´ê³ ì„œ ðŸ“ƒ</h3>
+  <h3>[2023. 12. 13] ÇÁ·ÎÁ§Æ® °á°úº¸°í¼­ ?</h3>
 </summary>
-   <a href="urlp"> ðŸ”— 6ì¡° í”„ë¡œì íŠ¸ ê²°ê³¼ë³´ê³ ì„œ í•œê¸€ íŒŒì¼ </a>
+   <a href="urlp"> ? 6Á¶ ÇÁ·ÎÁ§Æ® °á°úº¸°í¼­ ÇÑ±Û ÆÄÀÏ </a>
 </details>
 <br>
 

@@ -1,34 +1,43 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=76EA63&height=150&section=header" />
 
 # :recycle: <b>ART : Automatic Recycling Trash-can</b> :recycle:
-±âÃÊÃ¢ÀÇ°øÇÐ¼³°è 6ÆÀ STX
+ì•ˆë…•í•˜ì„¸ìš”, ê¸°ì´ˆì°½ì˜ê³µí•™ì„¤ê³„ 6íŒ€ STXìž…ë‹ˆë‹¤.
 <br>
 
 <br>                          
 
-## :one: Team Member
-:frog: <b>±è¹ÎÀç [ART ¾Û Á¦ÀÛ ´ã´ç] </b> : ¾È³çÇÏ¼¼¿ä, Àú´Â °æºÏ´ëÇÐ±³ ÄÄÇ»ÅÍÇÐºÎ 23ÇÐ¹ø ±è¹ÎÀçÀÔ´Ï´Ù. <br>
+## :one: Team STX
+
+### âœ”ï¸ Team Logo
+<p align=center>
+  <img src="https://github.com/2023-CLASS-1-Creative-ENG-Design/ART-Automatic-Recycling-TrashCan/assets/82202775/b0561e14-9616-475a-a6cf-439aa7bf15ba" width="640" height= "360">
+</p>
+
+
+### âœ”ï¸ Team Member
+:frog: <b>ê¹€ë¯¼ìž¬ [ART ì•± ì œìž‘ ë‹´ë‹¹] </b> : ì•ˆë…•í•˜ì„¸ìš”, ì €ëŠ” ê²½ë¶ëŒ€í•™êµ ì»´í“¨í„°í•™ë¶€ 23í•™ë²ˆ ê¹€ë¯¼ìž¬ìž…ë‹ˆë‹¤. <br>
 <br>
-:whale: <b>±è½Ã¿µ [H/W °³¹ß ´ã´ç] </b> : ¾È³çÇÏ¼¼¿ä, Àú´Â °æºÏ´ëÇÐ±³ ÄÄÇ»ÅÍÇÐºÎ 23ÇÐ¹ø ±è½Ã¿µÀÔ´Ï´Ù. <br>
+:whale: <b>ê¹€ì‹œì˜ [H/W ê°œë°œ ë‹´ë‹¹] </b> : ì•ˆë…•í•˜ì„¸ìš”, ì €ëŠ” ê²½ë¶ëŒ€í•™êµ ì»´í“¨í„°í•™ë¶€ 23í•™ë²ˆ ê¹€ì‹œì˜ìž…ë‹ˆë‹¤. <br>
 <br>
-:cat: <b>ÀÌ¹ÎÁÖ [Arduino S/W °³¹ß ´ã´ç] </b> : ¾È³çÇÏ¼¼¿ä, Àú´Â °æºÏ´ëÇÐ±³ ÄÄÇ»ÅÍÇÐºÎ 23ÇÐ¹ø ÀÌ¹ÎÁÖÀÔ´Ï´Ù. <br>
+:cat: <b>ì´ë¯¼ì£¼ [Arduino S/W ê°œë°œ ë‹´ë‹¹] </b> : ì•ˆë…•í•˜ì„¸ìš”, ì €ëŠ” ê²½ë¶ëŒ€í•™êµ ì»´í“¨í„°í•™ë¶€ 23í•™ë²ˆ ì´ë¯¼ì£¼ìž…ë‹ˆë‹¤. <br>
 <br>
-:pig: <b>ÃÖ¿ø¾Æ [Arduino S/W °³¹ß ´ã´ç] </b> : ¾È³çÇÏ¼¼¿ä, Àú´Â °æºÏ´ëÇÐ±³ ÄÄÇ»ÅÍÇÐºÎ 23ÇÐ¹ø ÃÖ¿ø¾ÆÀÔ´Ï´Ù. <br>
+:pig: <b>ìµœì›ì•„ [Arduino S/W ê°œë°œ ë‹´ë‹¹] </b> : ì•ˆë…•í•˜ì„¸ìš”, ì €ëŠ” ê²½ë¶ëŒ€í•™êµ ì»´í“¨í„°í•™ë¶€ 23í•™ë²ˆ ìµœì›ì•„ìž…ë‹ˆë‹¤. <br>
 <br>
 
 <br>
 
 ## :two: Project Introduce
-- :computer: [±âÃÊÃ¢ÀÇ°øÇÐ¼³°è] ¾ÆµÎÀÌ³ë ÇÁ·ÎÁ§Æ®
-- :recycle: Äµ, À¯¸®, ÇÃ¶ó½ºÆ½À» ÀÚµ¿À¸·Î ºÐ¸®ÇØÁÖ´Â ¾²·¹±âÅë
-- :iphone: Android AppÀ» ÅëÇØ ÀÜ·® È®ÀÎ
+- :computer: [ê¸°ì´ˆì°½ì˜ê³µí•™ì„¤ê³„] ì•„ë‘ì´ë…¸ í”„ë¡œì íŠ¸
+- :recycle: ìº”, ìœ ë¦¬, í”Œë¼ìŠ¤í‹±ì„ ìžë™ìœ¼ë¡œ ë¶„ë¦¬í•´ì£¼ëŠ” ì“°ë ˆê¸°í†µ
+- :white_check_mark: íˆ¬ìž… ê°ì§€ì™€ êµì²´ ì—¬ë¶€ë¥¼ ë³´ê¸° ì‰½ê²Œ ì•Œë ¤ì£¼ëŠ” ì¹œì ˆí•œ ì“°ë ˆê¸°í†µ
 <br>
 
 <br>
 
 ## :three: Motive
-- "±¹¸³´ë ºÐ¸®¼ö°Å ¹ÌÀÌÇà" »ç°Ç ¸ðÆ¼ºê
-- Á¶±ÝÀÌ³ª¸¶ Æí¸®ÇÑ ºÐ¸®¼ö°Å Á¦°øÀ» À§ÇÑ ÇÁ·ÎÁ§Æ®
+- "êµ­ë¦½ëŒ€ ë¶„ë¦¬ìˆ˜ê±° ë¯¸ì´í–‰" ì‚¬ê±´ ëª¨í‹°ë¸Œ
+- í•¨ê»˜ í•´ê²°ì±…ì„ ëª¨ìƒ‰í•  í•„ìš”ì„± ì¸ì‹
+- ì¡°ê¸ˆì´ë‚˜ë§ˆ íŽ¸ë¦¬í•œ ë¶„ë¦¬ìˆ˜ê±° ì œê³µì„ ìœ„í•œ í”„ë¡œì íŠ¸
 <br>
 
 <br>
@@ -47,57 +56,56 @@
 
 ## :four: Research Procedure
 
-<!--  °³¹ß°èÈ¹¼­  -->
+<!--  ê°œë°œê³„íšì„œ  -->
 <details>
 <summary>
-  <h3>[2023. 11. 15] °³¹ß°èÈ¹¼­ ?</h3>
+  <h3>[2023. 11. 15] ê°œë°œê³„íšì„œ ðŸ“„</h3>
 </summary>
-   <a href="6Á¶ °³¹ß°èÈ¹¼­.hwp"> ? 6Á¶ °³¹ß°èÈ¹¼­ ÇÑ±Û ÆÄÀÏ </a>
-   °èÈ¹ ³»¿ë 
+   <a href="6ì¡° ê°œë°œê³„íšì„œ.hwp"> ðŸ”— 6ì¡° ê°œë°œê³„íšì„œ í•œê¸€ íŒŒì¼ </a>
 </details>
 <br>
 
 <br>
 
-<!--  1Â÷ ¿¬±¸³ëÆ®  -->
+<!--  1ì°¨ ì—°êµ¬ë…¸íŠ¸  -->
 <details>
 <summary>
-  <h3>[2023. 11. 22] 1Â÷ ¿¬±¸³ëÆ® ?</h3>
+  <h3>[2023. 11. 22] 1ì°¨ ì—°êµ¬ë…¸íŠ¸ ðŸ“„</h3>
 </summary>
-   <a href="6Á¶ 11¿ù 4ÁÖÂ÷ ¿¬±¸³ëÆ®.hwp"> ? 6Á¶ 11¿ù 4ÁÖÂ÷ ¿¬±¸³ëÆ® ÇÑ±Û ÆÄÀÏ </a>
+   <a href="6ì¡° 11ì›” 4ì£¼ì°¨ ì—°êµ¬ë…¸íŠ¸.hwp"> ðŸ”— 6ì¡° 11ì›” 4ì£¼ì°¨ ì—°êµ¬ë…¸íŠ¸ í•œê¸€ íŒŒì¼ </a>
 </details>
 <br>
 
 <br>
 
-<!--  2Â÷ ¿¬±¸³ëÆ®  -->
+<!--  2ì°¨ ì—°êµ¬ë…¸íŠ¸  -->
 <details>
 <summary>
-  <h3>[2023. 11. 29] 2Â÷ ¿¬±¸³ëÆ® ?</h3>
+  <h3>[2023. 11. 29] 2ì°¨ ì—°êµ¬ë…¸íŠ¸ ðŸ“„</h3>
 </summary>
-   <a href="6Á¶ 11¿ù 5ÁÖÂ÷ ¿¬±¸³ëÆ®.hwp"> ? 6Á¶ 11¿ù 5ÁÖÂ÷ ¿¬±¸³ëÆ® ÇÑ±Û ÆÄÀÏ </a>
+   <a href="6ì¡° 11ì›” 5ì£¼ì°¨ ì—°êµ¬ë…¸íŠ¸.hwp"> ðŸ”— 6ì¡° 11ì›” 5ì£¼ì°¨ ì—°êµ¬ë…¸íŠ¸ í•œê¸€ íŒŒì¼ </a>
 </details>
 <br>
 
 <br>
 
-<!--  3Â÷ ¿¬±¸³ëÆ®  -->
+<!--  3ì°¨ ì—°êµ¬ë…¸íŠ¸  -->
 <details>
 <summary>
-  <h3>[2023. 12. 06] 3Â÷ ¿¬±¸³ëÆ® ?</h3>
+  <h3>[2023. 12. 06] 3ì°¨ ì—°êµ¬ë…¸íŠ¸ ðŸ“„</h3>
 </summary>
-   <a href="6Á¶ 12¿ù 1ÁÖÂ÷ ¿¬±¸³ëÆ®.hwp"> ? 6Á¶ 12¿ù 1ÁÖÂ÷ ¿¬±¸³ëÆ® ÇÑ±Û ÆÄÀÏ </a>
+   <a href="6ì¡° 12ì›” 1ì£¼ì°¨ ì—°êµ¬ë…¸íŠ¸.hwp"> ðŸ”— 6ì¡° 12ì›” 1ì£¼ì°¨ ì—°êµ¬ë…¸íŠ¸ í•œê¸€ íŒŒì¼ </a>
 </details>
 <br>
 
 <br>
 
-<!--  ÇÁ·ÎÁ§Æ® °á°úº¸°í¼­  -->
+<!--  í”„ë¡œì íŠ¸ ê²°ê³¼ë³´ê³ ì„œ  -->
 <details>
 <summary>
-  <h3>[2023. 12. 13] ÇÁ·ÎÁ§Æ® °á°úº¸°í¼­ ?</h3>
+  <h3>[2023. 12. 13] í”„ë¡œì íŠ¸ ê²°ê³¼ë³´ê³ ì„œ ðŸ“„</h3>
 </summary>
-   <a href="urlp"> ? 6Á¶ ÇÁ·ÎÁ§Æ® °á°úº¸°í¼­ ÇÑ±Û ÆÄÀÏ </a>
+   <a href="urlp"> ðŸ”— 6ì¡° í”„ë¡œì íŠ¸ ê²°ê³¼ë³´ê³ ì„œ í•œê¸€ íŒŒì¼ </a>
 </details>
 <br>
 

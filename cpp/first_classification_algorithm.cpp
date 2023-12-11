@@ -82,7 +82,7 @@ void trashInput()
 
   if (distance <= 30) // 측정 거리가 30 미만일 때
   {
-    lcd.print("Input Trash"); // 쓰레기 투입 감지 문구 출력
+    lcd.print("Detected"); // 쓰레기 투입 감지 문구 출력
     //Serial.print("Distance: ");
     //Serial.print(distance);
     //Serial.println(" cm [check]"); // 시리얼 모니터 확인

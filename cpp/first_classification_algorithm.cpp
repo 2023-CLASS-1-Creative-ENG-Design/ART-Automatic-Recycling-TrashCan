@@ -21,6 +21,7 @@ NewPing sonar(trigPin, echoPin, maxDistance);
 LiquidCrystal_I2C lcd(0x27, 16, 2); 
 
 int trashCheck = 0;
+char sendSign = '0';
 // ---------------------------------------------------------------------------------------------
 
 
@@ -82,18 +83,11 @@ void trashInput()
   if (distance <= 30) // 측정 거리가 30 미만일 때
   {
     lcd.print("Input Trash"); // 쓰레기 투입 감지 문구 출력
-    Serial.print("Distance: ");
-    Serial.print(distance);
-    Serial.println(" cm [check]"); // 시리얼 모니터 확인
-
-    trashCheck = 1;
-  }
-
-  else
-  {
     //Serial.print("Distance: ");
     //Serial.print(distance);
-    //Serial.println(" cm"); // 시리얼 모니터 측정값 출력
+    //Serial.println(" cm [check]"); // 시리얼 모니터 확인
+
+    trashCheck = 1;
   }
 
   delay(1000);  // 측정 주기 설정
@@ -114,11 +108,17 @@ void firstRecycling()
   //Serial.println(sensorValue);
 
   if (sensorValue > threshold && trashCheck == 1) {
-    Serial.println("Not Can");
+    //Serial.println("Not Can");
+    sendSign = '1';
+    if (sendSign == '1')
+    {
+      Serial.print(sendSign);
+      sendSign = '0';
+    }
     moveNotCan();
     trashCheck = 0;
   } else if (sensorValue < threshold && trashCheck == 1) {
-    Serial.println("Can");
+    //Serial.println("Can");
     moveCan();
     trashCheck = 0;
   }

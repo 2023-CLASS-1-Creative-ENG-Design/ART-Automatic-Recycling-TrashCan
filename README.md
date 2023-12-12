@@ -57,7 +57,64 @@
 
 <br>
 
-## :four: Research Procedure
+## :five: Introduce Our Code
+### 1. 투입 감지 및 1차 분류 알고리즘
+#### Used HeaderFile
+```cpp
+#include <Arduino.h>
+#include <Servo.h>
+#include <Wire.h>
+#include <LiquidCrystal_I2C.h>
+#include <NewPing.h>
+```
+<br>
+
+### 2. 2차 분류 알고리즘
+#### Used HeaderFile
+```cpp
+#include <Arduino.h>
+#include <Servo.h>
+```
+<br>
+
+### 3. 교체 신호 알고리즘
+#### Used HeaderFile
+```cpp
+#include <Arduino.h>
+#include <NewPing.h>
+#include <SoftwareSerial.h>
+```
+<br>
+
+### 4. 아두이노 Serial 통신
+#### How
+<p align=center>
+  <img src="url">
+</p>
+
+#### 송신부 프로그램
+```cpp
+#include <Arduino.h>
+
+void loop(){
+  Serial.print("1"); // 시리얼 통신으로 1 송신
+}
+```
+
+#### 수신부 프로그램
+```cpp
+#include <Arduino.h>
+
+void loop(){
+  Serial.available(); // 시리얼 통신을 통해 데이터가 들어오면 True
+  char readSign = (char)Serial.read(); // 시리얼 통신으로 들어온 데이터를 readSign에 저장
+}
+```
+<br>
+
+<br>
+
+## :six: Research Procedure
 
 <!--  개발계획서  -->
 <details>

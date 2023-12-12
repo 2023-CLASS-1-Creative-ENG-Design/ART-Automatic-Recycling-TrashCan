@@ -87,9 +87,9 @@
 <br>
 
 ### 4. 아두이노 Serial 통신
-#### How
+#### Circuit
 <p align=center>
-  <img src="url">
+  <img src="https://github.com/2023-CLASS-1-Creative-ENG-Design/ART-Automatic-Recycling-TrashCan/assets/82202775/77fc1866-47ad-45b9-8e0f-395055007d73" width="673.5" height="449">
 </p>
 
 #### 송신부 프로그램

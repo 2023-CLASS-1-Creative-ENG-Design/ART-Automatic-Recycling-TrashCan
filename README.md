@@ -30,6 +30,9 @@
 - :computer: [기초창의공학설계] 아두이노 프로젝트
 - :recycle: 캔, 유리, 플라스틱을 자동으로 분리해주는 쓰레기통
 - :white_check_mark: 투입 감지와 교체 여부를 보기 쉽게 알려주는 친절한 쓰레기통
+<p align=center>
+  <img src="https://github.com/2023-CLASS-1-Creative-ENG-Design/ART-Automatic-Recycling-TrashCan/assets/82202775/c4c537d3-fc0f-467b-abff-9b4406485154" width="604.8" height="599.2">
+</p>
 <br>
 
 <br>

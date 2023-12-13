@@ -160,6 +160,9 @@ void loop(){
   <h3>영상 및 사진 자료 📄</h3>
 </summary>
    <a href="video"> 📹 영상 자료 </a><br>
+
+  <br>
+  
    <a href="photo"> 🖼️ 사진 자료 </a>
 </details>
 <br>

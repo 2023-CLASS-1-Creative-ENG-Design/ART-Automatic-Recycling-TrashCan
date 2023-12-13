@@ -159,7 +159,7 @@ void loop(){
 <summary>
   <h3>영상 및 사진 자료 📄</h3>
 </summary>
-   <a href="6조 프로젝트 결과 보고서.hwp"> 🔗 영상 자료 </a>
+   <a href="video"> 🔗 영상 자료 </a>
 </details>
 <br>
 

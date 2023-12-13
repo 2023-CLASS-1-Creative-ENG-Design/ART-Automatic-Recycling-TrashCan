@@ -104,7 +104,11 @@ void loop(){
 <summary>
   <h3>[2023. 11. 15] 개발계획서 📄</h3>
 </summary>
-   <a href="6조 개발계획서.hwp"> 🔗 6조 개발계획서 한글 파일 </a>
+   <a href="6조 개발계획서.hwp"> 🔗 6조 개발계획서 한글 파일 </a><br>
+  <br>
+  
+   <img src="https://github.com/2023-CLASS-1-Creative-ENG-Design/ART-Automatic-Recycling-TrashCan/assets/82202775/c84a6e81-d54a-449c-9852-41ea40fcafe6" weight="321" height="327.5">
+   쓰레기통 설계도
 </details>
 <br>
 

@@ -154,4 +154,15 @@ void loop(){
 
 <br>
 
+<!--  영상 및 사진 자료  -->
+<details>
+<summary>
+  <h3>영상 및 사진 자료 📄</h3>
+</summary>
+   <a href="6조 프로젝트 결과 보고서.hwp"> 🔗 영상 자료 </a>
+</details>
+<br>
+
+<br>
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=76EA63&height=150&section=footer" />
